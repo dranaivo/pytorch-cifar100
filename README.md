@@ -1,6 +1,7 @@
 # Pytorch-cifar100
 
 practice on cifar100 using pytorch
+(my repo : https://github.com/dranaivo/2d-image-backbones)
 
 ## Requirements
 
